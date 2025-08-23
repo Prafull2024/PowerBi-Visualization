@@ -10,4 +10,4 @@ This HR Analytics Dashboard provides organization-wide and department-wise insig
 ******************************************************************************
 
 <img width="1460" height="792" alt="Blinit snap for Github" src="https://github.com/user-attachments/assets/7755cfe5-edb0-464a-a94e-9478b27dd64a" />
-This Blinkit dashboard provides Blinkit sales.
+This Blinkit dashboard provides Blinkit insights.
